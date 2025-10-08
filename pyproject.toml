@@ -1,0 +1,12 @@
+[project]
+name = "flodym_course"
+version = "1.0.0"
+authors = [
+    {name = "Jakob Dürrwächter"},
+]
+requires-python = ">= 3.10"
+dependencies = [
+    "flodym>=0.5.1",
+    "jupyterlab-rise>=0.43.1",
+    "jupyterlab>=4.4.8",
+]
